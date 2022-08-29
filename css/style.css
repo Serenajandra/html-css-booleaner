@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    position: relative;
+    width: 100%;
+}
+
+.logo{
+    padding: 0;
+    bottom: o;
+    border-bottom-width: 0;
+}
