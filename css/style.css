@@ -16,10 +16,48 @@ header{
 text-align: left;
 }
 
-h3,h4{
-    color:grey;
+main{
+    font-size: medium;
+    font-weight:bold;
 }
 
-span{
+h1{
+    font-size: 60px; 
+   margin-bottom: 0;
+}
+
+h2,h3{
+    color:grey;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#logo{
     color: cornflowerblue; 
+}
+.tim{
+    width: 600px;
+
+}
+
+h4{
+    margin-top: 0;
+}
+
+
+.yellow{
+    background-color:yellow;
+   
+}
+
+table{
+    border-collapse: collapse;
+}
+.blue{
+    background-color: rgb(67, 117, 234);
+    color: white;
+
+}
+.lightblue{
+    background-color: rgb(114, 226, 226);
 }
