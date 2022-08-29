@@ -4,20 +4,20 @@
     box-sizing: border-box;
 } */
 
-header{
+.background{
     background-color: cornflowerblue;
     background-image: url(../img/pattern.png);
     background-size: contain;
     width: 100%;
     height: 25%;
 }
-
 .logo{
 text-align: left;
+width: 500px;
 }
 
 main{
-    font-size: medium;
+    font-size:large;
     font-weight:bold;
 }
 
@@ -26,17 +26,20 @@ h1{
    margin-bottom: 0;
 }
 
+.nomargin{
+   margin:0;
+}
+
 h2,h3{
     color:grey;
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 #logo{
     color: cornflowerblue; 
 }
 .tim{
-    width: 600px;
+    width: auto;
+    height: 500px;
 
 }
 
